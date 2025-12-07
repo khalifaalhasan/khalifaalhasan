@@ -72,9 +72,6 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/khalifaalhasan/khalifaalhasan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
-
-
-
 <br/>
 <hr/>
 
