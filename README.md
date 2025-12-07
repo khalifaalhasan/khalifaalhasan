@@ -66,12 +66,11 @@
 <br/>
 <hr/>
 
-## 📊 GitHub Overview
+### 🐍 My GitHub Contribution Snake
 
-<div align="center">
-  <img src="https://github-readme-stats-git-master-khalifa-alhasans-projects.vercel.app/api?username=khalifaalhasan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=3600" height="150"/>
-  <img src="https://github-readme-stats-git-master-khalifa-alhasans-projects.vercel.app/api/top-langs/?username=khalifaalhasan&layout=compact&theme=github_dark&hide_border=true&count_private=true&cache_seconds=3600" height="150"/>
-</div>
+![GitHub Snake Light](https://raw.githubusercontent.com/khalifaalhasan/khalifaalhasan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/khalifaalhasan/khalifaalhasan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 
