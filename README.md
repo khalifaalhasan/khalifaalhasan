@@ -44,7 +44,7 @@
 
 ### **Databases**
 <div>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
 </div>
 
 ### **Cloud & DevOps**
