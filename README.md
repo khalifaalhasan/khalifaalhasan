@@ -33,6 +33,7 @@
 ## 🚀 Tech Stack
 
 ### **Programming Languages**
+<div align="center">
 <div>
   <img src="https://skillicons.dev/icons?i=typescript,python,go,nodejs" />
 </div>
@@ -50,6 +51,7 @@
 ### **Cloud & DevOps**
 <div>
   <img src="https://skillicons.dev/icons?i=docker,nginx,github,git,postman,vercel,aws,cloudflare" />
+</div>
 </div>
 
 <br/>
