@@ -31,9 +31,10 @@
 <hr/>
 
 <div align="center">
-## 🚀 Tech Stack
-### **Programming Languages**
+<h1>>🚀 Tech Stack</h1
 
+            
+### **Programming Languages**
 <div>
   <img src="https://skillicons.dev/icons?i=typescript,python,go,nodejs" />
 </div>
