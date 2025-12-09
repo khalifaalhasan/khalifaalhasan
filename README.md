@@ -30,11 +30,10 @@
 <br/>
 <hr/>
 
+## 🚀 Tech Stack
 <div align="center">
-##🚀 Tech Stack
-
+  
 ### **Programming Langueage**
-<br>
 <div>
   <img src="https://skillicons.dev/icons?i=typescript,python,go,nodejs" />
 </div>
