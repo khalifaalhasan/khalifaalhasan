@@ -35,12 +35,12 @@
   
 ### **Programming Langueage**
 <div>
-  <img src="https://skillicons.dev/icons?i=typescript,python,go,nodejs" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,go,nodejs,java" />
 </div>
 
 ### **Backend Frameworks**
 <div>
-  <img src="https://skillicons.dev/icons?i=express,nestjs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=express,nestjs,fastapi,spring" />
 </div>
 
 ### **Databases**
