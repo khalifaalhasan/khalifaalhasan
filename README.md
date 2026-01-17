@@ -1,21 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khalifaalhasan.khalifaalhasan" />
 
-<br/>
-
 <h1 align="center">Khalifa Alhasan</h1>
 
 <p align="center">
-  <strong>Backend Developer • API Engineer • Database & Cloud Enthusiast</strong>
+  <strong>Fullstack Developer • Web Engineer • DevOps Enthusiast</strong>
 </p>
 
 <p align="center">
-  I specialize in building scalable backend systems, API-driven architectures, and optimized database solutions.  
-  Passionate about clean code, system design, and crafting reliable backend infrastructures.
+  I build complete web solutions — from project setup, backend & frontend development,
+  database design, until deployment and DevOps workflows.
 </p>
 
 <br/>
 
-<div align="center"> 
+<div align="center">
   <a href="mailto:khlfaalhsn5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -23,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portofolio-al-ten.vercel.app">
-     <img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
 
@@ -31,87 +29,72 @@
 <hr/>
 
 ## 🚀 Tech Stack
-<div align="center">
-  
-### **Programming Langueage**
-<div>
-  <img src="https://skillicons.dev/icons?i=typescript,python,go,nodejs,java" />
-</div>
 
-### **Backend Frameworks**
-<div>
-  <img src="https://skillicons.dev/icons?i=express,nestjs,fastapi,spring" />
-</div>
+### Development
+- **Languages:** TypeScript, PHP, Java  
+- **Frameworks:** Next.js, Express, Laravel, Spring Boot  
+- **Frontend:** React, Tailwind CSS, Vite  
 
-### **Databases**
-<div>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
-</div>
+### Data & Storage
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Cloud & Storage:** Supabase, Firebase, MinIO  
 
-### **Cloud & DevOps**
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,github,git,postman,vercel,aws,cloudflare" />
-</div>
-</div>
+### Infrastructure
+- Docker, Nginx, Git, GitHub  
+- Postman, Vercel, Cloudflare
+
 
 <br/>
 <hr/>
 
 ## 🧩 About Me
 
-- I build **secure and scalable backend services**
-- Experienced in **SQL & NoSQL schema design**
-- Skilled in **payment integrations, webhooks, and API engineering**
-- Familiar with **server architecture, caching, and optimization**
-- Focused on writing **maintainable, clean, and well-tested code**
+- Build **fullstack web applications** from scratch to production
+- Handle **frontend, backend, database, and deployment**
+- Experienced in **REST APIs & system architecture**
+- Design **scalable, maintainable, and production-ready systems**
+- Comfortable with **DevOps, cloud services, and server management**
 
 <br/>
 <hr/>
 
-### 🐍 My GitHub Contribution Snake
-
+### 🐍 GitHub Contribution Snake
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/khalifaalhasan/khalifaalhasan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
 <br/>
 <hr/>
 
-## 🔥 Highlighted Skills
+## 🔥 Core Skills
 
-### **Backend**
-- REST API Design & Development  
-- Authentication (JWT, OAuth, Role-based Access)  
-- MVC + Service Layer Architecture  
-- Background Jobs & Queue Processing  
+### Fullstack Development
+- Web App Architecture (Frontend + Backend)
+- REST API Development
+- Authentication & Authorization
+- Modular & Clean Code Practices
 
-### **Database**
-- Advanced SQL Queries  
-- Database Normalization  
-- Query Optimization & Indexing  
-- Real-time features with Supabase  
+### Database
+- SQL Database Design
+- Query Optimization
+- Relational & Cloud Databases
 
-### **System**
-- Microservices & modular architecture  
-- Containerization with Docker  
-- Reverse proxy with Nginx  
-- Deployment & CI/CD  
+### DevOps
+- Docker & Containerization
+- Reverse Proxy with Nginx
+- CI/CD & Deployment
+- Cloudflare & Vercel Integration
 
 <br/>
 <hr/>
 
 ## 📫 Contact
 
-If you’re interested in collaborating or hiring, feel free to reach out:
-
-📨 **Email:** khlfaalhsn5@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/khalifa-al-hasan-a118562a0
+- 📧 Email: **khlfaalhsn5@gmail.com**
+- 🔗 LinkedIn: **linkedin.com/in/khalifa-al-hasan-a118562a0**
 
 <br/>
 <hr/>
 
 <div align="center">
-  
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐  
-  
+  ⭐ If you like my work, feel free to give a star to my repositories ⭐
 </div>
