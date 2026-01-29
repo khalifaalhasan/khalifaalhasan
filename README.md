@@ -31,8 +31,8 @@
 ## 🚀 Tech Stack
 
 ### Development
-- **Languages:** TypeScript, PHP, Java  
-- **Frameworks:** Next.js, Express, Laravel, Spring Boot  
+- **Languages:** TypeScript, PHP, Java, Go
+- **Frameworks:** Next.js, Express, Laravel, Spring Boot, Gin  
 - **Frontend:** React, Tailwind CSS, Vite  
 
 ### Data & Storage
