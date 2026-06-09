@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Backend\nDevelopment",
+    "description": "Robust architectures using Node.js, Go, and Python for clean, consistent, reliable performance.",
+    "pills": ["Clean Code", "Scalability"]
+  },
+  {
+    "id": "2",
+    "title": "Cloud &\nDevOps",
+    "description": "Automated CI/CD pipelines and infrastructure as code using Docker, Kubernetes, and Terraform.",
+    "pills": ["Automation", "High Availability"]
+  },
+  {
+    "id": "3",
+    "title": "Fullstack\nWeb",
+    "description": "End-to-end web application development focusing on responsive UI, seamless API integration, and performance.",
+    "pills": ["React/Next.js", "End-to-End"]
+  },
+  {
+    "id": "4",
+    "title": "System\nArchitecture",
+    "description": "Designing microservices and distributed systems capable of handling millions of requests seamlessly.",
+    "pills": ["Microservices", "Reliability"]
+  }
+]

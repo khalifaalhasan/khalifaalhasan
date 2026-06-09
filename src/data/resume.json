@@ -1,0 +1,97 @@
+{
+  "work": [
+    {
+      "id": "1",
+      "company": "H5 Creative Agency",
+      "role": "Internship Fullstack Developer",
+      "date": "Maret 2026 - Present",
+      "highlights": [
+        "Led the end-to-end development of a booking application at H5 Creative, taking full ownership of the tech stack (Next.js, Go) and clean architecture design.",
+        "Engineered & Deployed the platform by establishing efficient CI/CD workflows to ensure high availability and seamless delivery.",
+        "Boosted client acquisition by 40% and significantly increased website traffic through highly optimized performance."
+      ]
+    },
+    {
+      "id": "2",
+      "company": "Raden Fatah Information Technology and Database Center",
+      "role": "DevOps Engineer (Freelance)",
+      "date": "Agustus 2025 - Present",
+      "highlights": [
+        "Modernized the software delivery lifecycle for various internal university applications by replacing manual FTP uploads with robust GitHub Actions CI/CD workflows.",
+        "Slashed overall deployment times by 85% and minimized human error, achieving seamless, zero-downtime releases across multiple platforms.",
+        "Architected a scalable and secure server environment using Docker for containerization and Caddy for automated HTTPS management and efficient traffic routing."
+      ]
+    },
+    {
+      "id": "3",
+      "company": "Raden Fatah Business Development Center",
+      "role": "Fullstack Engineer (Freelance)",
+      "date": "Jan 2026 - Maret 2026",
+      "highlights": [
+        "Engineered a full-stack \"mini-Traveloka\" booking platform to digitize and streamline asset and service reservations for the Raden Fatah Business Development Center.",
+        "Overhauled the legacy payment infrastructure by replacing manual QR code generation with a seamless PUSTIPD API integration for dynamic billing.",
+        "Implemented real-time webhook callbacks for instant verification, eliminating manual interventions and accelerating payment processing speed by 10x."
+      ]
+    },
+    {
+      "id": "4",
+      "company": "Raden Fatah",
+      "role": "Fullstack Developer (Freelance)",
+      "date": "Juni 2025 - Agustus 2025",
+      "highlights": [
+        "Engineered multiple high-performance institutional web portals for UIN Raden Fatah, including Lembaga Pemeriksa Halal and Prodi Tasawuf & Psikoterapi, delivering responsive and SEO-optimized company profiles.",
+        "Spearheaded the modernization of the LP2M website by successfully migrating the legacy CodeIgniter system to a highly scalable Next.js architecture.",
+        "Standardized the UI/UX and applied clean code principles across all three platforms, significantly improving long-term maintainability and content management efficiency."
+      ]
+    },
+    {
+      "id": "5",
+      "company": "Public Relations of UIN Raden Fatah Palembang",
+      "role": "Fullstack Developer (Freelance)",
+      "date": "Jan 2025 - Mei 2025",
+      "highlights": [
+        "Developed and maintained the official Public Relations digital portal to streamline institutional information dissemination and improve public engagement.",
+        "Optimized website performance and implemented SEO best practices to increase organic traffic and visibility.",
+        "Collaborated closely with the communications team to ensure the platform met institutional branding and accessibility standards."
+      ]
+    },
+    {
+      "id": "6",
+      "company": "Institute for Research and Community Service (LP2M) UIN Raden Fatah",
+      "role": "Fullstack Developer (Freelance)",
+      "date": "March 2025 - May 2025",
+      "highlights": [
+        "Engineered a comprehensive web-based platform to digitize research data and community service records for university lecturers.",
+        "Designed and implemented RESTful APIs using Go and PostgreSQL to ensure fast and secure data retrieval.",
+        "Streamlined the proposal submission and review workflow, reducing administrative processing time by 40%."
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "id": "1",
+      "organization": "GDGoC UNSRI",
+      "role": "Backend Core Team",
+      "date": "Jan 2026 - Present",
+      "highlights": [
+        "Spearheaded the backend core team of 8 engineers, organizing task allocations and ensuring alignment with the community's project goals.",
+        "Established a structured learning roadmap and syllabus, successfully mentoring junior developers in adopting modern backend technologies and clean code standards.",
+        "Empowered team members to think as product engineers, enhancing their capabilities in analyzing system requirements and building production-ready applications."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "school": "Raden Fatah State Islamic University, Palembang",
+      "degree": "Bachelor's Degree in Information Systems | Expected Graduation: 2027",
+      "date": "2023 - Present"
+    },
+    {
+      "id": "2",
+      "school": "State Vocational High School 1 Kemang",
+      "degree": "Vocational High School in Computer and Network Engineering",
+      "date": "2020 - 2023"
+    }
+  ]
+}

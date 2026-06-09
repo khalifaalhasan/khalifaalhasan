@@ -1,0 +1,32 @@
+{
+  "name": "create-repofolio",
+  "version": "1.0.0",
+  "description": "CLI scaffolding tool for Repofolio Generator",
+  "main": "dist/index.js",
+  "type": "module",
+  "author": "Khalifa Alhasan",
+  "license": "MIT",
+  "keywords": [
+    "portfolio",
+    "cli",
+    "generator",
+    "nextjs",
+    "zero-db"
+  ],
+  "bin": {
+    "create-repofolio": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@clack/prompts": "^1.5.1",
+    "degit": "^2.8.4",
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/degit": "^2.8.6",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

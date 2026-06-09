@@ -1,0 +1,13 @@
+{
+  "bio": "I'm a Product Engineer who thrives at the intersection of product strategy, backend architecture, and resilient infrastructure. Rather than just writing code to specification, I focus on the end-to-end lifecycle—from initial schema design to seamless deployments—ensuring that every system built is fast, reliable, and genuinely solves the problem at hand.",
+  "approaches": [
+    { "step": "01", "title": "Analyze requirements & constraints" },
+    { "step": "02", "title": "Design scalable architectures" },
+    { "step": "03", "title": "Deploy resilient solutions" }
+  ],
+  "stats": [
+    { "value": "03+", "label": "Years Of Experience" },
+    { "value": "20+", "label": "Projects Completed" },
+    { "value": "10+", "label": "Clients Served" }
+  ]
+}
