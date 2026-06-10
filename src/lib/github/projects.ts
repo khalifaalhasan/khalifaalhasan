@@ -136,7 +136,19 @@ export async function fetchGithubProjects(username?: string): Promise<Project[]>
               f.type === 'file' && f.name.toLowerCase().startsWith('thumbnail.')
             );
             if (thumbnailFile) {
-              customThumbnail = thumbnailFile.download_url;
+              if (repo.private) {
+                const fileRes = await fetch(thumbnailFile.url, fetchOptions);
+                if (fileRes.ok) {
+                  const fileData = await fileRes.json();
+                  if (fileData.content) {
+                    const ext = thumbnailFile.name.split('.').pop()?.toLowerCase() || 'png';
+                    const mimeType = ext === 'jpg' || ext === 'jpeg' ? 'image/jpeg' : ext === 'gif' ? 'image/gif' : ext === 'svg' ? 'image/svg+xml' : 'image/png';
+                    customThumbnail = `data:${mimeType};base64,${fileData.content.replace(/\n/g, '')}`;
+                  }
+                }
+              } else {
+                customThumbnail = `https://raw.githubusercontent.com/${repo.owner.login}/${repo.name}/${repo.default_branch}/${thumbnailFile.path}`;
+              }
             }
           }
         }
@@ -151,7 +163,19 @@ export async function fetchGithubProjects(username?: string): Promise<Project[]>
                 f.type === 'file' && f.name.toLowerCase().startsWith('thumbnail.')
               );
               if (thumbnailFile) {
-                customThumbnail = thumbnailFile.download_url;
+                if (repo.private) {
+                  const fileRes = await fetch(thumbnailFile.url, fetchOptions);
+                  if (fileRes.ok) {
+                    const fileData = await fileRes.json();
+                    if (fileData.content) {
+                      const ext = thumbnailFile.name.split('.').pop()?.toLowerCase() || 'png';
+                      const mimeType = ext === 'jpg' || ext === 'jpeg' ? 'image/jpeg' : ext === 'gif' ? 'image/gif' : ext === 'svg' ? 'image/svg+xml' : 'image/png';
+                      customThumbnail = `data:${mimeType};base64,${fileData.content.replace(/\n/g, '')}`;
+                    }
+                  }
+                } else {
+                  customThumbnail = `https://raw.githubusercontent.com/${repo.owner.login}/${repo.name}/${repo.default_branch}/${thumbnailFile.path}`;
+                }
               }
             }
           }
