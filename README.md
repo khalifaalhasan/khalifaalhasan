@@ -1,46 +1,54 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+## 🚀 Tech Stack
 
-###
+<p align="center">
 
-<div align="center">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<div style="display:flex;justify-content:center;">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,go,py,nestjs,express,nextjs,react" height="60" />
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div style="display:flex;justify-content:center;">
-  <img src="https://skillicons.dev/icons?i=tailwind,svelte,postgres,mysql,redis,docker,linux,githubactions,cloudflare,nginx" height="60" />
-</div>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<br>
+</p>
 
-<div style="display:flex;justify-content:center;">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,jenkins" height="60" />
-</div>
+<p align="center">
 
-<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-F15833?style=for-the-badge)
 
-<div style="display:flex;justify-content:center;">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=loki,alloy,traefik,caddy,portainer,npm" height="60" />
-</div>
+</p>
 
-</div>
+<p align="center">
 
-###
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<div align="center">
-  <a href="mailto:khlfaalhsn5@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&style=for-the-badge&color=D14836&logoColor=white" height="25" />
-  </a>
-  <a href="http://khalifaalhasan.my.id/">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&style=for-the-badge&color=4285F4&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.instagram.com/aaldotsite/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&style=for-the-badge&color=E4405F&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/khalifaalhasan">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&style=for-the-badge&color=0077B5&logoColor=white" height="25" />
-  </a>
-</div>
+</p>
+
+<p align="center">
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F2C94C?style=for-the-badge&logo=grafana&logoColor=black)
+![Alloy](https://img.shields.io/badge/Grafana_Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+
+</p>
