@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  saya akan lawan
+  tetapi hari ini pas error saya sampaikan "saya akan lawan!"
 </p>
 
 <br>
