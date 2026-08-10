@@ -1,7 +1,7 @@
 <h1 align="center">yo</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="350" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29zc2F3a3l5b3EwYzM4cDdxcGhyZjRjZWF6NnRhbmdpeDBodGdndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nUWsIb48lxWweNG/giphy.gif" width="350" />
 </p>
 
 <br>
