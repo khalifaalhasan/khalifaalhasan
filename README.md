@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  Alumni PT. Mencari Cinta Sejati
+  saya akan lawan
 </p>
 
 <br>
